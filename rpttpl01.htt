@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Oracle Database RTPA Report</title>
+</head>
+<frameset rows="60,*">
+	<frame src="head.html">
+	<frame src="body.html">
+</frameset>	
+<body>
+</body>
+</html>
