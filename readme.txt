@@ -12,4 +12,5 @@ Generating the report
 To generate the report run the batch script rtpa.cmd, this will generate reports for all DBs listed in the file dblist.cfg
 The report files are placed in a folder called "reports" created under the current directory, the main report file is called RTPA_MAIN.html, this file is overwritten every time you generate a new set of reports, it is advisable to backup/rename this file before generating a new set of rtpa reports, please note that though the rtpa_main.html is overwritten the actual report data is still in tact, please do not delete any files in the report folder manually to avoid mal formed reports.
 
-For any questions write to abishek.vidyashanker@in.unisys.com
+
+For any questions write to abishekvs@gmail.com
